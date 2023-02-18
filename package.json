@@ -1,5 +1,5 @@
 {
-  "name": "meal-planner-frontend",
+  "name": "meal_planner",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
